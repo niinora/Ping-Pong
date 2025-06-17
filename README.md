@@ -1,6 +1,28 @@
 # Multiplayer Pong Game
 #Nino Ramishviili
 
+## Development Timeline
+- **June 3rd, 2024 (10:00 AM - 4:00 PM)**
+  - Initial project setup
+  - Created basic React + TypeScript frontend structure
+  - Set up Node.js + Express backend with TypeScript
+  - Implemented basic Socket.IO connection between client and server
+  - Created initial game canvas and basic UI components
+
+- **June 4th, 2024 (9:30 AM - 5:00 PM)**
+  - Implemented core game mechanics
+  - Added paddle movement and collision detection
+  - Developed ball physics and scoring system
+  - Created room management system
+  - Implemented real-time game state synchronization
+
+- **June 5th, 2024 (11:00 AM - 3:30 PM)**
+  - Added game over conditions and win detection
+  - Implemented player matching system
+  - Enhanced UI/UX with responsive design
+  - Added error handling and connection management
+  - Final testing and documentation
+
 ## Overview
 This project is a real-time, multiplayer Pong game built with a full-stack architecture. Two players can join a game session, control paddles, and compete to score points by bouncing a ball past their opponent. The game state is synchronized in real-time between both players using WebSockets.
 
