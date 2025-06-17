@@ -3,8 +3,6 @@
 ## Overview
 This project is a real-time, multiplayer Pong game built with a full-stack architecture. Two players can join a game session, control paddles, and compete to score points by bouncing a ball past their opponent. The game state is synchronized in real-time between both players using WebSockets.
 
----
-
 ## Features
 - **Real-Time Multiplayer:** Two players are matched and play against each other in real time.
 - **Game Mechanics:** Classic Pong gameplay with paddle movement, ball physics, collision detection, and scoring.
